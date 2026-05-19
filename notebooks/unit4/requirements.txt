@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain-community
+transformers
+accelerate
+datasets
+rank_bm25
+duckduckgo-search
+sentence-transformers
+faiss-cpu
